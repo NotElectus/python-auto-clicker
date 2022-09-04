@@ -1,8 +1,8 @@
 import pyautogui
 import keyboard
 
-# "0" starts the auto clicker.
-# "1" stops the auto clicker.
+# "1" starts the auto clicker.
+# "2" stops the auto clicker.
 # "3" stops the program.
 
 # note: pressing 3 wll only stop the program if the clicker is not running.
